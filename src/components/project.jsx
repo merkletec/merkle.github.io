@@ -15,7 +15,7 @@ export const Project = (props) => {
       <div className="shadow"></div>
       <div className="label">
          <div className="icon">
-            <i className="fas fa-walking"></i>
+         
          </div>
          <div className="info">
             <div className="main">網頁設計</div>
@@ -28,7 +28,7 @@ export const Project = (props) => {
       <div className="shadow"></div>
       <div className="label">
          <div className="icon">
-            <i className="fas fa-snowflake"></i>
+         
          </div>
          <div className="info">
             <div className="main">商業拍攝</div>
@@ -40,7 +40,7 @@ export const Project = (props) => {
       <div className="shadow"></div>
       <div className="label">
          <div className="icon">
-            <i className="fas fa-tree"></i>
+            
          </div>
          <div className="info">
             <div className="main">圖文設計</div>
@@ -52,7 +52,7 @@ export const Project = (props) => {
       <div className="shadow"></div>
       <div className="label">
          <div className="icon">
-            <i className="fas fa-tint"></i>
+          
          </div>
          <div className="info">
             <div className="main">行銷規劃</div>
@@ -64,7 +64,7 @@ export const Project = (props) => {
       <div className="shadow"></div>
       <div className="label">
          <div className="icon">
-            <i class="fas fa-sun"></i>
+           
          </div>
          <div className="info">
             <div className="main">區塊鍊智能合約</div>

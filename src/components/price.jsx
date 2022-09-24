@@ -16,10 +16,10 @@ export const Price = (props) => {
         <input type="radio" name="slider" id="help"></input>
         <input type="radio" name="slider" id="aaa"></input>
         <nav>
-          <label for="home" className="home"><i class="fas"></i>網頁設計</label>
-          <label for="blog" className="blog"><i class="fas"></i>行銷規劃</label>
-          <label for="code" className="code"><i class="fas"></i>智能合約</label>
-          <label for="help" className="help"><i class="far"></i>商業圖文</label>
+          <label for="home" className="home"><i class="fas"></i>網頁</label>
+          <label for="blog" className="blog"><i class="fas"></i>行銷</label>
+          <label for="code" className="code"><i class="fas"></i>區塊鍊</label>
+          <label for="help" className="help"><i class="far"></i>商圖</label>
           <label for="aaa" className="aaa"><i class="far"></i>3D列印</label>
           <div className="slider"></div>
         </nav>
@@ -176,7 +176,7 @@ export const Price = (props) => {
              
              <div className="project-box-content-header">
           <p className="box-content-header">整合行銷(1/hr)</p>
-          <p className="box-content-subheader">NT$5,000~8,000</p>
+          <p className="box-content-subheader">NT$5,000 ~8,000</p>
         </div>
 
         <div className="project-box-footer">
@@ -199,7 +199,7 @@ export const Price = (props) => {
              
              <div className="project-box-content-header">
           <p className="box-content-header">社群行銷(1/hr)</p>
-          <p className="box-content-subheader">NT$2,000~3,500</p>
+          <p className="box-content-subheader">NT$2,000 ~3,500</p>
         </div>
 
         <div className="project-box-footer">
@@ -221,7 +221,7 @@ export const Price = (props) => {
              
              <div className="project-box-content-header">
           <p className="box-content-header">網站體驗(1/hr)</p>
-          <p className="box-content-subheader">NT$3,500~5,000</p>
+          <p className="box-content-subheader">NT$3,500 ~5,000</p>
         </div>
 
         <div className="project-box-footer">
@@ -243,7 +243,7 @@ export const Price = (props) => {
              
              <div className="project-box-content-header">
           <p className="box-content-header">檔期活動(1/hr)</p>
-          <p className="box-content-subheader">NT$2,000~3,500</p>
+          <p className="box-content-subheader">NT$2,000 ~3,500</p>
         </div>
 
         <div className="project-box-footer">
@@ -265,7 +265,7 @@ export const Price = (props) => {
              
              <div className="project-box-content-header">
           <p className="box-content-header">網紅行銷</p>
-          <p className="box-content-subheader">NT$3,000~4,500</p>
+          <p className="box-content-subheader">NT$3,000 ~4,500</p>
         </div>
 
         <div className="project-box-footer">
@@ -287,7 +287,7 @@ export const Price = (props) => {
              
              <div className="project-box-content-header">
           <p className="box-content-header">單圖 6 則</p>
-          <p className="box-content-subheader">NT$4,500~6,000</p>
+          <p className="box-content-subheader">NT$4,500 ~6,000</p>
         </div>
 
         <div className="project-box-footer">
@@ -309,7 +309,7 @@ export const Price = (props) => {
              
              <div className="project-box-content-header">
           <p className="box-content-header">多圖(5p) 6 則</p>
-          <p className="box-content-subheader">NT$6,000~8,500</p>
+          <p className="box-content-subheader">NT$6,000 ~8,500</p>
         </div>
 
         <div className="project-box-footer">
@@ -331,7 +331,7 @@ export const Price = (props) => {
              
              <div className="project-box-content-header">
           <p className="box-content-header">檔期/系列 6 則 </p>
-          <p className="box-content-subheader">NT$4,000~8,500</p>
+          <p className="box-content-subheader">NT$4,000 ~8,500</p>
         </div>
 
         <div className="project-box-footer">
@@ -353,7 +353,7 @@ export const Price = (props) => {
              
              <div className="project-box-content-header">
           <p className="box-content-header">廣告單則</p>
-          <p className="box-content-subheader">NT$800~1,500</p>
+          <p className="box-content-subheader">NT$800 ~1,500</p>
         </div>
 
         <div className="project-box-footer">

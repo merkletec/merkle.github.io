@@ -9,7 +9,7 @@ export const Testimonials = (props) => {
           賓亦可準備想談論之題材。透過簡單約一小時的時間來讓聽眾了解店家的創業
           理念及為何該拜訪貴店家。</p>
         </div>
-        <img style={{ maxWidth: "100%"}} src={"img/team/IMG_2619.png"} alt='...' className='services-img' />
+        <a href="https://www.instagram.com/100pa.human/"><img style={{ maxWidth: "100%"}}  src={"img/team/IMG_2619.png"} alt='...' className='services-img' /></a>
         
       </div>
     </div>
